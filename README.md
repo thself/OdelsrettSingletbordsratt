@@ -1,0 +1,2 @@
+# OdelsrettSingletbordsratt
+A nice game.
